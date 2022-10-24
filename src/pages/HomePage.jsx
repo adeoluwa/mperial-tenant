@@ -19,7 +19,7 @@ const HomePage = () => {
     <>
       {/* <NavBar /> */}
       <Routes>
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/document" element={<Documents />} />
         <Route path="/file" element={<File />} />
         <Route path="/profile" element={<Profile />} />

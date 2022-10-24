@@ -19,7 +19,7 @@ const Footer = () => {
 
               <div className="input flex">
                 <input type="text" placeholder="Email Address" />
-                <button>Say hi</button>
+                <button>send</button>
               </div>
             </div>
           </div>
